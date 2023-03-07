@@ -11,11 +11,14 @@
 <body>
 
 <?php
-$msg1= "<b>hello world</b>";
-$msg2 = "Hello";
-echo $msg2. ' , ' .$msg1;
+$msg1= "<b>Malik Yussif</b>";
+
+echo  $msg1;
 
 
+
+
+// $msg2 = "Hello";
 
 // //Constent Message Variable
 
